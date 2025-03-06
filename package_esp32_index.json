@@ -2,8 +2,8 @@
   "packages": [
     {
       "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
+      "maintainer": "Vultur",
+      "websiteURL": "https://github.com/vmaldonadoz/KitEducativo",
       "email": "hristo@espressif.com",
       "help": {
         "online": "http://esp32.com"
