@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Kit Educativo",
+      "name": "esp32",
       "maintainer": "Vultur",
       "websiteURL": "https://github.com/vmaldonadoz/KitEducativo",
       "email": "victoriamaldonado87@gmail.com",
