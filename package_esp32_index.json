@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Kit_Educativo",
+      "name": "Kit",
       "maintainer": "Vultur",
       "websiteURL": "https://github.com/vmaldonadoz/KitEducativo",
       "email": "victoriamaldonado87@gmail.com",
@@ -10,14 +10,14 @@
       },
       "platforms": [
         {
-          "name": "Kit_Educativo",
+          "name": "Kit",
           "architecture": "esp32",
           "version": "1.0.6",
           "category": "ESP32",
-          "url": "https://github.com/vmaldonadoz/KitEducativo/releases/download/1.0.6/esp32-1.0.6.zip",
+          "url": "https://github.com/vmaldonadoz/KitEducativo/releases/download/libreria/esp32-1.0.6.zip",
           "archiveFileName": "esp32-1.0.6.zip",
-          "checksum": "SHA-256:49ad7a5dc79ee8fad0e749cb4971e572de228b80b4e886f3b1b47bd4828ec3a2",
-          "size": "51116647",
+          "checksum": "SHA-256:51249a9bf5563efc89917fa90fb2a409f9a8bba2eca92959b194c5db1bfc5e46",
+          "size": "51129935",
           "help": {
             "online": ""
           },
