@@ -12,12 +12,12 @@
         {
           "name": "Kit",
           "architecture": "esp32",
-          "version": "1.0.6",
+          "version": "1.0.6_prueba",
           "category": "ESP32",
-          "url": "https://github.com/vmaldonadoz/KitEducativo/releases/download/libreria/esp32-1.0.6.zip",
-          "archiveFileName": "esp32-1.0.6.zip",
-          "checksum": "SHA-256:51249a9bf5563efc89917fa90fb2a409f9a8bba2eca92959b194c5db1bfc5e46",
-          "size": "51129935",
+          "url": "https://github.com/vmaldonadoz/KitEducativo/releases/download/libreria/1.0.6.zip",
+          "archiveFileName": "1.0.6.zip",
+          "checksum": "SHA-256:6b4050fb5ddbf6a9a77429e903e0d062d109838b84996b3f8e8ae7646a84b035",
+          "size": "687596519",
           "help": {
             "online": ""
           },
